@@ -1,5 +1,5 @@
 Olá, eu sou Jordana
-- 🌱 Eu estou prendendo atualmente HTML e CSS 
+- 🌱 Eu estou aprendendo atualmente HTML e CSS 
 - ⚡ Busco trabalhar com desenvolvimento Web e Mobile
 
 
